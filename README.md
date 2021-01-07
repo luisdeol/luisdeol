@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu Github! Vou colocar aqui projetos de lives, artigos, e pessoais! 
+### Seja bem-vindo! Coloco aqui projetos pessoais, e também de lives e artigos! :computer:
 
 <!--
 **luisdeol/luisdeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
