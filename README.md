@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem-vindo ao meu Github! Vou colocar aqui projetos de lives, artigos, e pessoais! 
 
 <!--
 **luisdeol/luisdeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
